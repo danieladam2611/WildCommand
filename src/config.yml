@@ -1,0 +1,11 @@
+prefix: §8[§4WildCommand§8] §r
+wide: 200 #number of maximum blocks for teleporting
+worlds: #The command only works in these worlds
+  - world
+  - farmwelt
+  - nether
+messages:
+  teleport: §aYou were teleported randomly :D
+  nopermission: §cYou don't have Permissions to run this Command!
+  failedteleport: §cThe Teleport request was failed, pleas try again!
+  worlddisabled: §cYou cann't execute this Command in this world!
